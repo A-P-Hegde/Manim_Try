@@ -1,3 +1,11 @@
+# ----------------------------------------------------------------------
+# Manim Specific Ignores
+# ----------------------------------------------------------------------
+
+# 1. Manim's default output directory
+# This is the most critical addition for your project structure
+media/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/aryap/OneDrive/Desktop/Codes/VS_Code_Python/MANIM/microwave/media/videos/main/480p15/partial_movie_files/BroadsideArrayPattern/3826013018_2698221948_573095475.mp4'
+file 'file:C:/Users/aryap/OneDrive/Desktop/Codes/VS_Code_Python/MANIM/microwave/media/videos/main/480p15/partial_movie_files/BroadsideArrayPattern/3967793556_4023146162_2271727447.mp4'
+file 'file:C:/Users/aryap/OneDrive/Desktop/Codes/VS_Code_Python/MANIM/microwave/media/videos/main/480p15/partial_movie_files/BroadsideArrayPattern/2255746757_2631580503_2784500306.mp4'

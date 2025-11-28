@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/aryap/OneDrive/Desktop/Codes/VS_Code_Python/Int_pt_chrg/media/videos/main/1080p60/partial_movie_files/DynamicMagneticField/3977891868_971326567_1307951308.mp4'
